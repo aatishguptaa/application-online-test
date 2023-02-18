@@ -1,0 +1,44 @@
+[
+    {
+      "question": "In which country did chess originate?",
+      "choice1": "Israel",
+      "choice2": "Saudi Arabia",
+      "choice3": "US",
+      "choice4": "India",
+      "answer": 4
+    },
+    {
+      "question": "Who won the world Chess Championship 2022?",
+      "choice1": "GM Magnus Carlsen",
+      "choice2": " GM Hikaru Nakamura",
+      "choice3": "GM Haik Martirosyan",
+      "choice4": "GM Rapport Richard",
+      "answer": 1
+    },
+    {
+      "question": "Which game is the earliest known predecessor of chess?",
+      "choice1": "Checkers",
+      "choice2": "Ludo",
+      "choice3": "Chaturanga",
+      "choice4": "Go",
+      "answer": 3
+    },
+    {
+      "question": "Who is called magician of chess?",
+      "choice1": "Garry Kasparov",
+      "choice2": "Mikhail Tal",
+      "choice3": "Viswanathan Anand ",
+      "choice4": "Bobby Fischer",
+      "answer": 2
+    },
+    
+    {
+      "question": " What is the common abbreviation of the international chess federation?",
+      "choice1": "FIA",
+      "choice2": "WCF",
+      "choice3": "IFC",
+      "choice4": "FIDE",
+      "answer": 4
+    }
+    
+  ]
